@@ -1,0 +1,14 @@
+{
+  "name": "interactive-cv-html-css-sass",
+  "version": "1.0.0",
+  "description": ": A fully responsive and interactive CV layout built using HTML, CSS, and Sass. This project leverages advanced CSS techniques, including animations, flexbox, grid systems, and modular Sass structure, to create a sleek and professional personal profile design.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.83.4"
+  }
+}
